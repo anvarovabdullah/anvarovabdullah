@@ -4,11 +4,12 @@
 
 # Salam, I'm Abdulloh 👋
 
-I break software for a living and help fix what I find. White-hat only.
+<a href="https://github.com/anvarovabdullah"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=460&lines=I+break+software+for+a+living;Then+I+help+fix+it;White-hat+only;QA+%C2%B7+AppSec+%C2%B7+Java+learner" alt="typing intro"/></a>
 
 <a href="https://t.me/anvarovabdullah"><img src="https://img.shields.io/badge/Telegram-@anvarovabdullah-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
 <a href="mailto:abdullox8585@gmail.com"><img src="https://img.shields.io/badge/Email-abdullox8585@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tashkent,%20UZ-UTC+5-2ea44f?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=anvarovabdullah&color=7aa2f7&style=flat-square&label=Profile+views"/>
 
 </div>
 
