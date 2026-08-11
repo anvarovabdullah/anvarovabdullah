@@ -57,8 +57,8 @@ Most of my code lives in private repos:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anvarovabdullah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-  <img src="https://github-readme-stats.vercel.app/api?username=anvarovabdullah&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anvarovabdullah/anvarovabdullah/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/anvarovabdullah/anvarovabdullah/output/github-snake.svg" alt="contribution snake"/>
 </picture>
 
 <picture>
