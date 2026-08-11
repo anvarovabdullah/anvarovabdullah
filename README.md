@@ -57,8 +57,8 @@ Most of my code lives in private repos:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anvarovabdullah/anvarovabdullah/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/anvarovabdullah/anvarovabdullah/output/github-snake.svg" alt="contribution snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anvarovabdullah/anvarovabdullah/output/github-snake-dark.svg?v=2">
+  <img src="https://raw.githubusercontent.com/anvarovabdullah/anvarovabdullah/output/github-snake.svg?v=2" alt="contribution snake"/>
 </picture>
 
 <picture>
